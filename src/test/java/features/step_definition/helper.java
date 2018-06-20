@@ -3,11 +3,7 @@ package features.step_definition;
 import java.util.Scanner;
 
 
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebElement;
-
 import cucumber.api.java.en.Given;
-import utilities.driver;
 
 public class helper {
 	@Given("^I wait for (\\d+) seconds$")

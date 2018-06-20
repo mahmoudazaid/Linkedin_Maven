@@ -9,12 +9,12 @@ Feature: Edit profile
     And I Enter "Test@123" into "Password"
     And I Submit to sign in
     And I wait for 10 seconds
-    And I click on "Welco	me, Automation!" link
+    And I click on "Welcome, Automation!" link
     And I wait for 10 seconds
     
   	Scenario: Add Work experience
   		Given I click on "Add profile section" dropdown menu
-  		And I wait for 5 seconds
+  		And I wait for 10 seconds
   		And I select "Work experience" from list
   		And I wait for 5 seconds
   		And I have enter "Manager" into "Title"
