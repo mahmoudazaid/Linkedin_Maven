@@ -1,4 +1,4 @@
-package features.step_definition;
+package step_defention;
 
 import cucumber.api.java.en.Given;
 

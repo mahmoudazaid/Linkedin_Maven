@@ -1,4 +1,4 @@
-package features.step_definition;
+package step_defention;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

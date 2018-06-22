@@ -1,0 +1,7 @@
+std_opts = "--format rerun --out rerun.txt --strict --tags ~@wip"
+
+%>
+
+.....
+
+default: <%= std_opts %> -f pretty features

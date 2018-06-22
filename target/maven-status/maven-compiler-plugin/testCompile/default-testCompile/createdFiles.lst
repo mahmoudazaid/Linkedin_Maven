@@ -1,10 +1,10 @@
 utilities\EmailUtils$EmailFolder.class
-features\step_definition\email_utils.class
-features\step_definition\login.class
-features\step_definition\web_steps.class
-features\step_definition\profile.class
+step_defention\profile.class
 utilities\driver.class
-features\step_definition\helper.class
+step_defention\web_steps.class
+step_defention\email_utils.class
 Runner\testrunner.class
 utilities\EmailUtils.class
+step_defention\helper.class
+step_defention\login.class
 utilities\Hooks.class
